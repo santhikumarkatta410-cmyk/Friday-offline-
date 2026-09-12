@@ -1,0 +1,7 @@
+{
+  "name": "FRIDAY",
+  "description": "Offline voice assistant with local brain, smart home automation, app opener, and encrypted device communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
